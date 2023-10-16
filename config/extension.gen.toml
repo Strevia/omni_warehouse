@@ -1,0 +1,10 @@
+
+[package]
+    archivePath = "./archives/omni.warehouse_creator-0.2.2.zip"
+    repository = "https://gitlab-master.nvidia.com/omniverse/kit-extensions/warehouse-creator-extension"
+
+    [package.publish]
+        date = 1676320297
+        kitVersion = "104.2+release.96.cda0f258.tc"
+        buildNumber = "0.2.2+master.91.b2c8d76c.tc"
+        repoName = "warehouse_creator"
